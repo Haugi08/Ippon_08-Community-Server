@@ -1,0 +1,43 @@
+.content {
+    color: rgb(50, 81, 255);
+    font-size: 5em;
+    font-style: italic;
+    text-align: center;
+    
+}
+body {
+    background-color: rgb(158, 229, 243);
+    color: rgb(0, 0, 0)
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+.content_order {
+        font-size: 2em;
+        text-align: center;
+        color: rgb(26, 70, 217);
+
+}
+.order {
+    font-size: 1.8em;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    text-align:center
+
+
+}
+.text_basic {
+    color: rgb(0, 0, 0);
+    font-size: 1.2em;
+    text-align: center;
+}
+.bodybasic {
+    color: rgb(158, 229, 243);
+}
